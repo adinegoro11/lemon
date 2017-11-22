@@ -1,0 +1,1 @@
+<a class="btn btn-default" href="<?php echo base_url()."sensor/index";?>" role="button"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Batal</a>
